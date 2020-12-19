@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Srijita. 
-## I'm a CSE Undergrad at KIIT, Odisha and pursuing my interests like building foundation in DSA and also I'm a ML enthusiast.
+## I'm a CSE Undergrad at KIIT, Odisha. I'm currently pursuing my interests which are building foundation in DSA and Backend Development. Also I'm a ML enthusiast.
 
 - 🔭 I’m currently working on building a website based on Personal Finanance.
 - 🌱 I’m currently learning Machine Learning.
